@@ -37,11 +37,7 @@ cd user-management-app
 
 2. **Install dependencies**:
 
-npm install
-
-# or
-
-yarn install
+- npm install or yarn install
 
 3. **Ensure TailwindCSS is installed**:
 
@@ -52,11 +48,7 @@ yarn install
 
 1. **Start the development server**:
 
-npm start
-
-# or
-
-yarn start
+- npm start or yarn start
 
 ## Usage
 
@@ -73,3 +65,7 @@ yarn start
 | GET    | `/api/users?page=1` | Retrieve a list of users with pagination |
 | PUT    | `/api/users/:id`    | Update user details by ID                |
 | DELETE | `/api/users/:id`    | Delete a user by ID                      |
+
+## Live Application
+
+Explore the live version of the **TaskFlow** application here: [UserManage by Sai Kumar](https://user-manage-sai.vercel.app/) 🚀
