@@ -68,4 +68,4 @@ cd user-management-app
 
 ## Live Application
 
-Explore the live version of the **TaskFlow** application here: [UserManage by Sai Kumar](https://user-manage-sai.vercel.app/) 🚀
+Explore the live version of the **UserManage** application here: [UserManage by Sai Kumar](https://user-manage-sai.vercel.app/) 🚀
