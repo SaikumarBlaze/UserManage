@@ -1,0 +1,21 @@
+{
+  "name": "User Management System",
+  "short_name": "UserManager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "description": "A comprehensive user management system with authentication, user listing, editing, and deletion functionalities.",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
